@@ -1,10 +1,16 @@
 # Business_Analytics_Project
 
-# Analytics & Consulting Project Portfolio
+## Analytics & Consulting Project Portfolio
 
-This repository showcases my work across data analysis, business analytics, and consulting problem-solving. 
-It includes projects completed during my academic journey, upGrad’s Business Analytics & Consulting program, 
-and independent explorations of real-world datasets.
+This repository presents hands-on projects where I apply data analysis to solve real business problems.  
+Using Excel, SQL, Python, and Power BI, I work with datasets to clean information, explore patterns, and translate findings into actionable insights for decision making.
+
+Each project folder contains:
+- Problem statement
+- Data description
+- Tools & techniques used
+- Approach to analysis
+- Key insights and outcomes
 
 ## What’s Inside
 - Excel data analysis projects (segmentation, profitability, dashboards)
