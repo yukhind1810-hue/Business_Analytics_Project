@@ -17,7 +17,6 @@ The analysis explored:
 - Product–market fit issues  
 - Channel-level conversion disparities  
 
-*(Problem statement reference: page 2 of assignment)*
 
 ---
 
@@ -46,7 +45,6 @@ This structure enabled a MECE hypothesis breakdown.
 - Enterprise sellers deliver a **28% win rate**  
 - Existing clients ($25K–$50K) convert at **74%**, outperforming new clients (17%)  
 
-*(Insights reference: pages 13–21)*
 
 ---
 
@@ -62,17 +60,16 @@ This structure enabled a MECE hypothesis breakdown.
 
 ### 60–90 Days: Long-Term Initiatives
 - Build a **Small Deal Factory** to automate ≤ $10K deals  
-- Develop competitor-free value propositions  
+- Develop competitor-free value propositions
 
-*(Recommendations reference: pages 22–27)*
+  
 
 ---
 
 ## Files in This Folder
 
 - `README.md` — Project summary  
-- `Sales_Pipeline_Conversion_Presentation.pdf` — Full analysis  
-- Optional supporting visuals  
+- `Sales_Pipeline_Conversion_Presentation.pdf` — Full analysis    
 
 ---
 
