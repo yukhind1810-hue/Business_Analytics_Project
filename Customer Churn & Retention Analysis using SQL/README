@@ -1,1 +1,88 @@
+# Customer Churn & Retention Analysis using SQL
+
+## Business Context
+Customer churn has a direct impact on revenue, profitability, and long-term growth in the banking industry.
+
+While churn is often associated with low engagement, the data shows that even financially healthy and active customers may exit unexpectedly.  
+The goal of this project was to identify hidden risk patterns early and recommend proactive retention strategies.
+
+---
+
+## Objective
+To analyze behavioral and financial characteristics of customers using SQL and determine:
+- Which customers are most likely to churn
+- Why valuable customers leave
+- Where preventive intervention can reduce future losses
+
+---
+
+## Dataset
+Structured banking customer dataset containing:
+- Churn status  
+- Account balance  
+- Tenure  
+- Number of products  
+- Activity indicators  
+
+---
+
+## Tools & Techniques
+- SQL querying  
+- Aggregations  
+- Segmentation logic  
+- Ranking of high-value customers  
+- Behavioral pattern analysis  
+
+---
+
+## Analytical Approach
+
+Customers were segmented into four major groups:
+
+- Active & Retained  
+- Active & Exited  
+- Inactive & Retained  
+- Inactive & Exited  
+
+This helped distinguish between expected churn and unexpected churn.
+
+---
+
+## Key Insights
+
+- A group of financially strong and actively engaged customers still exited the bank.
+- Many inactive customers continue to stay due to high account balances acting as a financial anchor.
+- Engagement alone is not a reliable predictor of loyalty.
+- Customers with fewer products show weaker attachment and higher exit probability.
+- Mid-tenure customers represent an important risk window.
+
+---
+
+## Recommendations
+
+1. Track relationship health, not just activity metrics.
+2. Use preventive incentives for inactive but high-value customers.
+3. Increase product penetration early to build long-term stickiness.
+4. Develop early warning signals combining tenure, balance, and engagement behavior.
+
+---
+
+## Expected Impact
+A predictive, value-based retention strategy can help reduce high-impact customer losses and enable earlier intervention.
+
+---
+
+## Files in this Folder
+- SQL script containing all queries
+- Executive presentation with insights and recommendations
+
+---
+
+## Skills Demonstrated
+- Business problem translation into SQL logic  
+- Customer segmentation  
+- Risk identification  
+- Insight generation  
+- Strategy recommendation  
+- Data storytelling
 
