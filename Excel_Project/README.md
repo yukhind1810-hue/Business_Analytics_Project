@@ -5,6 +5,12 @@ customer segments and product categories using Excel. The goal was to identify
 high-performing segments, top profitable products, and loss-making items to derive 
 actionable business insights.
 
+## Business Context
+
+A retail business wants to understand which customer segments and product categories drive profitability, and where losses are occurring.  
+The analysis helps stakeholders prioritize high-performing areas, optimize pricing or discount strategies, and reduce exposure to unprofitable products.
+
+
 ## 📌 Objectives
 - Segment the dataset into Consumer, Corporate, Home Office groups.
 - Evaluate sales and profit data across categories and sub-categories.
