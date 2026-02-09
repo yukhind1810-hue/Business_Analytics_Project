@@ -1,1 +1,74 @@
+# Movie Industry Trend Analysis using Python
 
+## Business Context
+Studios, producers, and streaming platforms rely on historical performance patterns to guide investment, casting, and genre strategies.
+This project analyzes movie data from 1916–2016 to uncover drivers of ratings, profitability, and audience preferences.
+
+---
+
+## Objective
+To extract actionable insights from historical movie data by performing structured data preparation, transformation, and exploratory analysis.
+
+---
+
+## Dataset
+Movie dataset spanning ~100 years including:
+- Ratings
+- Revenue and profit indicators
+- Directors
+- Actors
+- Genres
+
+---
+
+## Tools & Libraries
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib 
+
+---
+
+## Analytical Workflow
+
+### Data Understanding
+- Loaded and validated dataset  
+- Reviewed structure, columns, and data types  
+
+### Data Cleaning
+- Identified and handled missing values  
+- Removed unnecessary columns  
+- Dropped duplicates  
+- Standardized formats and units  
+- Verified retained records after cleaning  
+
+### Analysis Performed
+- Identified movies with highest profit
+- Extracted IMDb Top 250
+- Determined top-performing directors
+- Analyzed most popular genres
+- Found critic-favorite vs audience-favorite actors
+
+---
+
+## Key Insights
+- A small number of films generate disproportionately high profits, with big-budget productions dominating the top ranks.
+- James Cameron appears multiple times among the highest-profit movies, reinforcing the repeat impact of established blockbuster directors.
+- When filtering by both rating quality and sufficient audience votes, the IMDb Top 250 list highlights how popularity and credibility must coexist.
+- Damien Chazelle ranks among the top directors by average IMDb score, showing consistent critical performance.
+- Genre combinations matter: Family and Sci-Fi repeatedly emerge as one of the strongest audience-pulling mixes.
+- Among the compared actors, Leonardo DiCaprio stands out as both a critic favorite and an audience favorite.
+
+---
+
+## Files in this Folder
+- Jupyter Notebook with complete implementation
+
+---
+
+## Skills Demonstrated
+- Data cleaning & preprocessing  
+- Exploratory data analysis  
+- Data validation  
+- Pattern recognition  
+- Analytical storytelling  
